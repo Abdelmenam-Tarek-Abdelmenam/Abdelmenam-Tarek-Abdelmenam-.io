@@ -36,9 +36,9 @@ const RESOURCES = {
 "flutter.js": "195f32f4217e034162a6697208586f44",
 "icons/logo-aerium-1.png": "c9c1749b275f61ebc563d6596ccf2569",
 "icons/logo-aerium-2.png": "58b131c1e81194452cb702693c040a92",
-"index.html": "b571a990493a9d9bbdbfbd6600c95d08",
-"/": "b571a990493a9d9bbdbfbd6600c95d08",
-"main.dart.js": "b2cb07e5a9dd4c1fa40c28fec578814f",
+"index.html": "b586ae49a954429ddd814502c75c145d",
+"/": "b586ae49a954429ddd814502c75c145d",
+"main.dart.js": "7fb18f7f5fa24a717d9a49d3afa591e8",
 "manifest.json": "2e28cebc1e27a999e5b0da349afad267",
 "version.json": "a8bb8d7849c8c8260fb219a37233d33a"
 };
